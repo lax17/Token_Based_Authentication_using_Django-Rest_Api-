@@ -20,8 +20,8 @@ Create Api for login, signup, view profile, edit profile and delete profile for 
 </ol>
 
 
-<b>Requirement list :</b>
-pip install djangov <br>
+<b>Requirement list :</b><br>
+pip install django <br>
 pip install djangorestframework
 
 Nothing more then that.
